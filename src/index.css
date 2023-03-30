@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: url('./image/446e3b79395a287ca32f7977dd83b290.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {
