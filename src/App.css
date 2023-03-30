@@ -41,6 +41,10 @@
   margin: 2px 15px;
 }
 
+.btnAddTime:hover {
+  background-color: #008000;
+}
+
 .button-paused {
   color: #fff;
   border-style: none;
