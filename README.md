@@ -1,6 +1,6 @@
 # Countdown/Contagem regressiva
 
-Um projeto bom de se fazer que parece simples mas demanda muita lógica!
+Um projeto bom para a se fazer, simples, mas demanda muita lógica!
 
 ## Countdown ou Contagem regressiva
 
